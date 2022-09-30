@@ -1,0 +1,38 @@
+img{
+    max-width: 600px;
+}
+
+.intropara{
+    font-size: 14px;
+    color:red;
+    font-family: Georgia;
+}
+
+abbr{
+    display: inline;
+}
+body{
+    background-color:rgb(46, 67, 113)
+}
+
+h1{
+    color: #fff !important;
+    font-size: 2em;
+    font-family: Georgia;
+    text-align: center;
+} 
+
+li{
+    color:#fff;
+    font-family: Georgia;
+}
+
+h3{
+    color: #fff;
+    font-family: Georgia;
+}
+
+p{
+    color: #fff;
+    text-align: left;
+}
